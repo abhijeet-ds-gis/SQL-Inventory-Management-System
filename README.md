@@ -35,5 +35,5 @@ This project is a fully functional, normalized relational database designed for 
 
 ## 📬 Contact
 Created by **Abhijeet Pandey** 
-* 💼 LinkedIn: [[Link to your LinkedIn Profile]](https://www.linkedin.com/in/abhijeet-pandey-aa9088187/)
+* 💼 LinkedIn: https://www.linkedin.com/in/abhijeet-pandey-aa9088187/
 * 📧 Email: abhijeetce0003@gmail.com
