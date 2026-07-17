@@ -34,6 +34,6 @@ This project is a fully functional, normalized relational database designed for 
 4. Test the automation by executing the Order Insertion stored procedure and checking the Stock table!
 
 ## 📬 Contact
-Created by **[Your Name]** 
-* 💼 LinkedIn: [Link to your LinkedIn Profile]
-* 📧 Email: [Your Email Address]
+Created by **Abhijeet Pandey** 
+* 💼 LinkedIn: [[Link to your LinkedIn Profile]](https://www.linkedin.com/in/abhijeet-pandey-aa9088187/)
+* 📧 Email: abhijeetce0003@gmail.com
