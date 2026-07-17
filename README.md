@@ -27,7 +27,7 @@ This project is a fully functional, normalized relational database designed for 
 1. Download the `inventory_database_build.sql` file from the `sql_scripts` folder.
 2. Open Microsoft SQL Server Management Studio (SSMS) or your preferred SQL IDE.
 3. Run the script in its entirety. It will automatically:
-   * Create the `LB_Practise` database.
+   * Create the database.
    * Generate all tables and relationships.
    * Insert sample mock data.
    * Create all Functions, Sequences, Procedures, and Triggers.
